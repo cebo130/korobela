@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295826113188",
+    "project_id": "korobela-120f9",
+    "storage_bucket": "korobela-120f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295826113188:android:22d63546ebf92430075c31",
+        "android_client_info": {
+          "package_name": "com.korobela.korobela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295826113188-v1gu28pat9s07o68da4eqnp3cbppf8ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwM6uz5ylRNn_lQfc58HECtGNBArPea9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295826113188-v1gu28pat9s07o68da4eqnp3cbppf8ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
